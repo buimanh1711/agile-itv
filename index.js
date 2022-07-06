@@ -26,3 +26,4 @@ singleArray.forEach((element) => {
 });
 
 console.log(`Số đôi tất là: ${duplicated}`);
+
